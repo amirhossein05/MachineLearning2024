@@ -1,3 +1,4 @@
+##  Linear Classifier
 * Linear Logistic Regression:
 Implementation of logistic regression, a popular linear classification algorithm, to model binary outcomes.
 The code demonstrates the training process, including parameter estimation using techniques such as gradient descent or Newton's method.
