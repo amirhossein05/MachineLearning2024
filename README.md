@@ -17,7 +17,7 @@ The implementation showcases the iterative optimization process, updating model 
 Utilization of the make_classification function to generate synthetic datasets with specified characteristics such as the number of samples, features, and classes.
 Visualization of generated datasets using the drawdata function to gain insights into their distributions and separability.
 
-*Analysis of CWRU Bearing Dataset:
+* Analysis of CWRU Bearing Dataset:
 Exploration of the CWRU Bearing dataset, a real-world dataset commonly used for fault diagnosis in machinery.
 Application of linear classification techniques to identify and classify fault conditions based on vibration signals.
 
