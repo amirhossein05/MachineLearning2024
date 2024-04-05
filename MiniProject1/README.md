@@ -10,13 +10,16 @@ The implementation showcases the iterative optimization process, updating model 
 
 * Data Generation with make_classification and drawdata:
 Utilization of the make_classification function to generate synthetic datasets with specified characteristics such as the number of samples, features, and classes.
-Visualization of generated datasets using the drawdata function to gain insights into their distributions and separability.
+Visualization of generated datasets using the drawdata function to gain insights into their distributions and separability.(Problem 1)
 
 * Analysis of CWRU Bearing Dataset:
 Exploration of the CWRU Bearing dataset, a real-world dataset commonly used for fault diagnosis in machinery.
 Application of linear classification techniques to identify and classify fault conditions based on vibration signals.
+`Normal_2.mat`: Normal dataset
+`IR007_2.mat` : Fault dataset
+(Problem 2)
 
 * Analysis of Weather in Szeged 2006-2016:
 Investigation of the Weather in Szeged dataset spanning the years 2006-2016.
-Implementation of linear regression techniques, including Least Squares (LS), Recursive Least Squares (RLS), and Weighted Least Squares (WLS) approaches.
+Implementation of linear regression techniques, including Least Squares (LS), Recursive Least Squares (RLS), and Weighted Least Squares (WLS) approaches.(Problem 3)
 Analysis of weather patterns and trends using linear regression models to predict temperature, humidity, or other meteorological variables.
