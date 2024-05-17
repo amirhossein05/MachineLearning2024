@@ -2,7 +2,7 @@
 
 This repository contains solutions to four different machine learning problems. Each problem explores a different algorithm and dataset, analyzing the results using various evaluation metrics and visualization techniques.
 
-## Problems Solved
+## Problems 
 
 ### Problem 1: McCulloch-Pitts Neuron
 In this problem, we use a McCulloch-Pitts neuron to separate data in a rectangular space. We analyze the performance using different activation functions.
