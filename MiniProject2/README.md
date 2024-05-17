@@ -8,9 +8,10 @@ This repository contains solutions to four different machine learning problems. 
 In this problem, we use a McCulloch-Pitts neuron to separate data in a rectangular space. We analyze the performance using different activation functions.
 
 **Steps:**
-1. Implement McCulloch-Pitts neuron model.
-2. Test on a dataset to classify points in a rectangular space.
-3. Analyze the effect of different activation functions on the model performance.
+1. Preprocess the random dataset
+2. Implement McCulloch-Pitts neuron model.
+3. Test on a dataset to classify points in a rectangular space.
+4. Analyze the effect of different activation functions on the model performance.
 
 ### Problem 2: Multi-Layer Perceptron (MLP) on CWRU Dataset
 This problem involves applying a Multi-Layer Perceptron (MLP) to the CWRU dataset, which includes three fault classes and one normal class. We use Stratified K-Fold Cross-validation and analyze the results using various metrics.
