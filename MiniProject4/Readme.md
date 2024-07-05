@@ -11,7 +11,7 @@ Q-learning is a model-free reinforcement learning algorithm that aims to find th
 ### DQN
 Deep Q-learning (DQN) is an advanced version of Q-learning that uses a neural network to approximate the Q-values. This approach enables handling larger state spaces and complex environments more effectively.
 
-## #Comparison of Results
+### Comparison of Results
 The average reward per episode for both agents after 1000 episodes shows the performance comparison:
 
 Q-learning: -1024.639
