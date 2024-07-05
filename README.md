@@ -8,4 +8,5 @@ Mini Project 2: Neural Network & Decision Tree & NaiveBayes
 
 Mini Project 3: SVM & Autoencoder & PCA & LDA
 
+Mini Project 4: Reinforcement Learning
 
