@@ -80,5 +80,4 @@ To run the projects on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/DanialNejad/ML-2024.git
-   cd ML-2024
+   git clone https://github.com/amirhossein05/MachineLearning2024.git
