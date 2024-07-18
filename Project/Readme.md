@@ -24,9 +24,10 @@ To install the required Python packages, run:
 pip install torch torchvision pillow numpy
 ```
 ## Setup
+```
 git clone https://github.com/amirhossein05/MachineLearning2024
 cd MachineLearning2024
-
+```
 ## Usage
 To train the model, run:
 ```
