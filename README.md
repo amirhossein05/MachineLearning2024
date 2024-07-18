@@ -73,6 +73,10 @@ Training Deep Q-Network (DQN) and Double Deep Q-Network (DDQN) agents to solve t
 - Training the agents
 - Performance evaluation: rewards, learning curves
 - Visualization: videos of agent performance
+## 🛠️ Mini Project 4
+
+
+
 
 ## 🚀 Getting Started
 
@@ -81,3 +85,11 @@ To run the projects on your local machine, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/amirhossein05/MachineLearning2024.git
+
+2. **Install the dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   
+## 🤝 Contributing
+
+This repository is primarily for educational purposes and personal reference. If you would like to contribute to the projects, your suggestions for improvement or corrections are welcome. Please feel free to submit a pull request or open an issue.
