@@ -12,10 +12,11 @@ Welcome to the repository for the Machine Learning Course Projects at KNTU Unive
 
 Each project in this repository demonstrates the application of various machine learning techniques and algorithms studied throughout the course. The projects are as follows:
 
-1. [Mini Project 1](#mini-project-1)
-2. [Mini Project 2](#mini-project-2)
-3. [Mini Project 3](#mini-project-3)
-4. [Mini Project 4](#mini-project-4)
+1. [Mini Project 1](#MiniProject1)
+2. [Mini Project 2](#MiniProject2)
+3. [Mini Project 3](#MiniProject3)
+4. [Mini Project 4](#MiniProject4)
+5. [Project](#Project)
 
 ## 🛠️ Mini Project 1
 
@@ -73,8 +74,20 @@ Training Deep Q-Network (DQN) and Double Deep Q-Network (DDQN) agents to solve t
 - Training the agents
 - Performance evaluation: rewards, learning curves
 - Visualization: videos of agent performance
-## 🛠️ Mini Project 4
+## 🛠️ Final Project 
+Implementing a GAN for Generating Cryptographic Keys from Images
 
+### Overview
+This project involves the development of a Generative Adversarial Network (GAN) designed to generate cryptographic keys from images by utilizing a transformation domain that closely resembles the key domain.
+
+### Key Tasks
+- Environment Setup: Prepare Python and necessary libraries.
+- Model Architecture: Define the Generator and Discriminator architectures.
+- Image Transformation: Develop functions to transform input images into a key-generating domain.
+- Training Loop: Implement the GAN training procedure, optimizing both the generator and discriminator.
+- Loss Function Implementation: Define and optimize adversarial loss functions for training stability.
+- Performance Evaluation: Analyze the effectiveness of generated keys and discriminator accuracy.
+- Visualization: Showcase generated images and transformation effects.
 
 
 
