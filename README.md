@@ -4,7 +4,7 @@ Welcome to the repository for the Machine Learning Course Projects at KNTU Unive
 ## 📘 Course Information
 
 - **Instructor:** [Dr. Mahdi Aliyari-Shoorehdeli]
-- **TA Lead:** [MJ Ahmadi] (https://github.com/MJAHMADEE)
+- **TA Lead:** [MJ Ahmadi](https://github.com/MJAHMADEE)
 - [Course Website](https://apac.ee.kntu.ac.ir/academic/courses/)
 - [Course GitHub](https://github.com/MJAHMADEE/MachineLearning2024W)
 
@@ -12,11 +12,11 @@ Welcome to the repository for the Machine Learning Course Projects at KNTU Unive
 
 Each project in this repository demonstrates the application of various machine learning techniques and algorithms studied throughout the course. The projects are as follows:
 
-1. [Mini Project 1](#MiniProject1)
-2. [Mini Project 2](#MiniProject2)
-3. [Mini Project 3](#MiniProject3)
-4. [Mini Project 4](#MiniProject4)
-5. [Project](#Project)
+1. [MiniProject1](https://github.com/amirhossein05/MachineLearning2024/tree/main/MiniProject1)
+2. [MiniProject2](https://github.com/amirhossein05/MachineLearning2024/tree/main/MiniProject2)
+3. [MiniProject3](https://github.com/amirhossein05/MachineLearning2024/tree/main/MiniProject3)
+4. [MiniProject4](https://github.com/amirhossein05/MachineLearning2024/tree/main/MiniProject4)
+5. [Project](https://github.com/amirhossein05/MachineLearning2024/tree/main/Project)
 
 ## 🛠️ Mini Project 1
 
